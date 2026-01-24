@@ -4,7 +4,7 @@
         "namespace": "android_app",
         "package_name": "com.todayhealth.app",
         "sha256_cert_fingerprints":
-        ["{여기에-앱-서명-키의-SHA-256-지문을-넣어주세요}"]
+        ["DF:F1:4E:B1:14:44:53:A7:58:83:C7:77:65:AC:76:25:85:14:64:43:D4:AE:A4:6A:D9:FC:16:97:C7:8E:3C:6"]
       }
     }]
     
